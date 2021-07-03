@@ -50,3 +50,4 @@ for (var i=1; i<10; i++){
      y=n
      series = series + n + " ";
 }console.log(series);
+
