@@ -1,6 +1,6 @@
 var MonthName = "April"
-var StartingDay = 4;
-var Day = 28;
+var StartingDay = 0;
+var Day = 31;
 console.log("Calendar Of Month",MonthName);
 console.log("Sun  Mon  Tue  Wed  Thu  Fri  Sat");
 
